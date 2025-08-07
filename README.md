@@ -27,17 +27,6 @@ This is a Home Assistant automation blueprint that enhances Frigate events using
 
 ---
 
-## 📁 Repository Structure
-
-- [`frigate_ai_notification.yaml`](./frigate_ai_notification.yaml) — Full automation blueprint
-- [`blueprint.json`](./blueprint.json) — Blueprint metadata (used by import URL)
-- [`manifest.json`](./manifest.json) — Home Assistant blueprint manifest file
-- [`README.md`](./README.md) — You're reading it
-- [`LICENSE`](./LICENSE) — MIT license
-- [`.github/workflows/validate-blueprint.yml`](./.github/workflows/validate-blueprint.yml) — GitHub Actions validation
-
----
-
 ## 🚀 Installation
 
 1. Copy the contents of [`frigate_ai_notification.yaml`](./frigate_ai_notification.yaml) into a new blueprint in Home Assistant **or** use the one-click button below:
@@ -64,12 +53,6 @@ The blueprint exposes a wide set of inputs:
 - Temperature, token limit, and resolution
 - High-priority labels (to adjust urgency)
 - Entity context (for LLM Vision only)
-
----
-
-## 🧪 GitHub Actions Validation
-
-All pushes to this repo automatically run blueprint YAML validation via the `.github/workflows/validate-blueprint.yml` file.
 
 ---
 
