@@ -1,0 +1,9 @@
+{
+  "name": "Frigate AI Camera Notifications (v2.0)",
+  "description": "AI-enhanced camera alerts using either AI Task or LLM Vision integrations.",
+  "source_url": "https://github.com/Bradw-17/frigate-ai-notifications",
+  "domain": "automation",
+  "author": "Brad",
+  "homeassistant": "2025.8.0",
+  "config_flow": false
+}
