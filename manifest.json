@@ -1,0 +1,10 @@
+{
+  "domain": "frigate_ai_notifications",
+  "name": "Frigate AI Notifications",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Bradw-17/frigate-ai-notifications",
+  "requirements": [],
+  "codeowners": ["@Bradw-17"],
+  "dependencies": [],
+  "homeassistant": "2024.4.0"
+}
