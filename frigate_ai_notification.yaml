@@ -1,0 +1,24 @@
+blueprint:
+  name: Frigate AI Camera Notifications (v2.0)
+  description: >
+    🚨 AI-enhanced Frigate notifications with intelligent camera analysis.
+
+    🧠 Supports both AI Task (HA 2025.8+) and LLM Vision integrations.
+
+    📱 Sends rich notifications with media via the HA Companion app.
+
+    📌 Requirements:
+      - Frigate + MQTT enabled
+      - EITHER AI Task OR LLM Vision integration configured
+      - Mobile app notify service available
+      - External URL set under Settings > System > Network
+
+    ✨ Features:
+      - Dual integration support (AI Task or LLM Vision)
+      - Analyzes both snapshots and video clips
+      - Smart zone and object filtering
+      - Configurable AI parameters
+      - Dynamic notification priority
+      - Built-in cooldown system
+
+# ... [truncated for brevity; actual file will contain the full blueprint from canvas] ...
