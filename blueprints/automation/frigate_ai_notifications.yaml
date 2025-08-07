@@ -24,7 +24,7 @@ blueprint:
 
   domain: automation
   author: Brad
-  source_url: https://github.com/your-repo/frigate-ai-notifications
+  source_url: https://github.com/Bradw-17/frigate-ai-notifications/blob/main/blueprints/automation/frigate_ai_notifications.yaml
 
   input:
     in_ai_integration:
