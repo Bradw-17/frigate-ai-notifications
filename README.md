@@ -31,7 +31,7 @@ This is a Home Assistant automation blueprint that enhances Frigate events using
 
 1. Copy the contents of [`frigate_ai_notification.yaml`](./frigate_ai_notification.yaml) into a new blueprint in Home Assistant **or** use the one-click button below:
 
-[![Add to Home Assistant](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?repository_url=https://github.com/Bradw-17/frigate-ai-notifications&filename=frigate_ai_notification.yaml)
+[![Open your Home Assistant instance and show the blueprint import dialog with this blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2FBradw-17%2Ffrigate-ai-notifications%2Fblob%2Fmain%2Fblueprints%2Fautomation%2Ffrigate_ai_notifications.yaml)
 
 2. Fill in the required inputs:
    - Frigate camera
