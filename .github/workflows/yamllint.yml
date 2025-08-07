@@ -1,0 +1,15 @@
+---
+name: YAML Lint
+
+on: [push, pull_request]
+
+jobs:
+  yamllint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: YAML Lint
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          file_or_dir: blueprints/
+          config_file: .yamllint
